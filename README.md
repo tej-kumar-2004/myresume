@@ -1,7 +1,7 @@
 # myresume
 My personal protofolio resume   
-https://github.com/tej-kumar-2004/myresume.git
-
+[https://github.com/tej-kumar-2004/myresume.git
+](https://github.com/tej-kumar-2004/myresume/tree/main)
 Tej kumar S
 
 Student
